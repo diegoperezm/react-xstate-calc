@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-xstate-calc/static/css/main.77cd2061.chunk.css",
+    "main.js": "/react-xstate-calc/static/js/main.3da01d15.chunk.js",
+    "main.js.map": "/react-xstate-calc/static/js/main.3da01d15.chunk.js.map",
+    "runtime-main.js": "/react-xstate-calc/static/js/runtime-main.d2946ddf.js",
+    "runtime-main.js.map": "/react-xstate-calc/static/js/runtime-main.d2946ddf.js.map",
+    "static/js/2.19ed3a07.chunk.js": "/react-xstate-calc/static/js/2.19ed3a07.chunk.js",
+    "static/js/2.19ed3a07.chunk.js.map": "/react-xstate-calc/static/js/2.19ed3a07.chunk.js.map",
+    "index.html": "/react-xstate-calc/index.html",
+    "precache-manifest.a14800e13dfab476006fc796e2b1f3d6.js": "/react-xstate-calc/precache-manifest.a14800e13dfab476006fc796e2b1f3d6.js",
+    "service-worker.js": "/react-xstate-calc/service-worker.js",
+    "static/css/main.77cd2061.chunk.css.map": "/react-xstate-calc/static/css/main.77cd2061.chunk.css.map",
+    "static/js/2.19ed3a07.chunk.js.LICENSE.txt": "/react-xstate-calc/static/js/2.19ed3a07.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2946ddf.js",
+    "static/js/2.19ed3a07.chunk.js",
+    "static/css/main.77cd2061.chunk.css",
+    "static/js/main.3da01d15.chunk.js"
+  ]
+}
