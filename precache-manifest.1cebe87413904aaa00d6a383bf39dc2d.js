@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3597abe6ab7eaa1659f7792b75984f9",
+    "revision": "b5b3537b8ab74013530519cced7318f3",
     "url": "/react-xstate-calc/index.html"
   },
   {
-    "revision": "df3a77e4f2b7aad77e5b",
-    "url": "/react-xstate-calc/static/css/main.77cd2061.chunk.css"
+    "revision": "e70db722ff7edea39ea7",
+    "url": "/react-xstate-calc/static/css/main.36e5ac44.chunk.css"
   },
   {
     "revision": "55cac901695ef5e09d23",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-xstate-calc/static/js/2.19ed3a07.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df3a77e4f2b7aad77e5b",
-    "url": "/react-xstate-calc/static/js/main.3da01d15.chunk.js"
+    "revision": "e70db722ff7edea39ea7",
+    "url": "/react-xstate-calc/static/js/main.77e56698.chunk.js"
   },
   {
     "revision": "a0e0d4a692dfd3117c49",
