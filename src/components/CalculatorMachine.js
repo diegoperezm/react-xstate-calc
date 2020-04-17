@@ -465,17 +465,20 @@ function Calculator() {
     }, [state.context.data]);
 
     return (
-    <div className="App">
-      <h1 className="title">Calculator</h1>
-     <div className="container">
-	 <Display value={value} />
- 	<div className="keypad">
-         <Keypad send={send} />
-        </div>
-    </div>
-    </div>
+ <div className="App">
+   <h1 className="title">Calculator</h1>
+   <div className="container">
+     <Display
+	value={value}
+ 	operand1={state.context.operand1}
+ 	operand2={state.context.operand2}
+      />
+     <div className="keypad">
+      <Keypad send={send} />
+     </div>
+   </div>
+ </div>
     );
-    
 }
 
 
